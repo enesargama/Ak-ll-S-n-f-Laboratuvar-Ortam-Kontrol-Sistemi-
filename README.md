@@ -1,5 +1,4 @@
-# Akıllı [README.md](https://github.com/user-attachments/files/26632292/README.md)
-Sınıf/Laboratuvar-Ortam-Kontrol-Sistemi-
+Akıllı Sınıf/Laboratuvar-Ortam-Kontrol-Sistemi-
 ESP32 tabanlı, sıcaklık, nem ve ışık verilerini izleyen ve otomatik kontrol sağlayan IoT akıllı sınıf/laboratuvar sistemi.
 # 🧠 Akıllı Sınıf / Laboratuvar Ortam Kontrol Sistemi
 
